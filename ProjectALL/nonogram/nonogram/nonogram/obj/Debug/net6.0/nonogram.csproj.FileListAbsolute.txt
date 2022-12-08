@@ -1,0 +1,15 @@
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\bin\Debug\net6.0\nonogram.exe
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\bin\Debug\net6.0\nonogram.deps.json
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\bin\Debug\net6.0\nonogram.runtimeconfig.json
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\bin\Debug\net6.0\nonogram.dll
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\bin\Debug\net6.0\nonogram.pdb
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.csproj.AssemblyReference.cache
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.AssemblyInfoInputs.cache
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.AssemblyInfo.cs
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.csproj.CoreCompileInputs.cache
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.dll
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\refint\nonogram.dll
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.pdb
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\nonogram.genruntimeconfig.cache
+C:\Users\ojs45\Desktop\code\nonogram\nonogram\nonogram\obj\Debug\net6.0\ref\nonogram.dll
